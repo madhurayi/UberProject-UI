@@ -1,0 +1,7 @@
+export const HOME_PATH = "/Home"
+export const LOGIN_PATH = "/login"
+export const REGISTER_PATH = "/register"
+export const ROOT_PATH = "/"
+export const BOOKING_PATH = "/:pickupAddress/:dropAddress"
+export const MY_RIDES_PATH = "/my-rides"
+export const RIDER = "/rider/dashboard"
