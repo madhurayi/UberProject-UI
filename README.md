@@ -85,16 +85,36 @@ A modern ride-sharing platform where drivers can manage ride requests in real-ti
 
 
 - ## Snapshots
+  **1. Login Screen (Passenger/Driver)**  User chooses their role (Passenger or Driver), enters credentials, and is routed to their respective dashboard.
+
+![image](https://github.com/user-attachments/assets/aed02365-4d57-4e77-8931-469eae079a90)
+
 ![Screenshot 2025-06-17 080924](https://github.com/user-attachments/assets/b777e5f6-401c-4cf0-b787-0df66b2efc24)
-![Screenshot 2025-06-17 080924](https://github.com/user-attachments/assets/5258e937-fbd1-4624-a3e4-cdb14be759db)
+
+  **2. Passenger Booking UI** Passenger inputs pickup and drop locations and submits the ride request.
+  
 ![image](https://github.com/user-attachments/assets/455a73b1-c01f-49e3-9f32-12a1913c695f)
+
+  **3. Booking Confirmation UI** Displays the route on the map with distance, estimated fare, ETA, and lets the user confirm the booking. 
+  
 ![image](https://github.com/user-attachments/assets/3f75e8b0-dfbb-426a-b532-5b237dcbeaf8)
 
 ![image](https://github.com/user-attachments/assets/6529880a-02f1-4b64-afa5-573e7dbf0321)
-![image](https://github.com/user-attachments/assets/aed02365-4d57-4e77-8931-469eae079a90)
+
+**4. Driver Dashboard (Offline)** | Driver lands on this dashboard after login. It shows status as offline with a toggle to go online. |
+
 ![Screenshot 2025-06-17 201757](https://github.com/user-attachments/assets/86807eb7-891c-4239-b1d6-90dcd404d107)
+
+**6. Driver Ride Request** | A ride request popup appears showing passenger pickup/drop, distance, and allows the driver to accept or reject. |
+
 ![Screenshot 2025-06-17 210916](https://github.com/user-attachments/assets/1fe703bb-2bb8-4471-a329-0fd6214744de)
+
+**7. Driver Accepted Ride State** | Once accepted, the screen confirms ride assignment and displays navigation to pickup location. |
+
 ![Screenshot 2025-06-17 210931](https://github.com/user-attachments/assets/016860bf-56b1-43f3-866b-c8a33ca226bf)
+
+**8. Passenger "Driver Assigned" View** | Passenger sees assigned driver details (name, vehicle, ETA) with live tracking and call/cancel options. 
+
 ![Screenshot 2025-06-17 210952](https://github.com/user-attachments/assets/278e6ff7-fba3-4b98-8f01-7555fb9975d1)
 
 
