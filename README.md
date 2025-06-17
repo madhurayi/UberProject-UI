@@ -92,6 +92,10 @@ A modern ride-sharing platform where drivers can manage ride requests in real-ti
 
 ![image](https://github.com/user-attachments/assets/6529880a-02f1-4b64-afa5-573e7dbf0321)
 ![image](https://github.com/user-attachments/assets/aed02365-4d57-4e77-8931-469eae079a90)
+![Screenshot 2025-06-17 201757](https://github.com/user-attachments/assets/86807eb7-891c-4239-b1d6-90dcd404d107)
+![Screenshot 2025-06-17 210916](https://github.com/user-attachments/assets/1fe703bb-2bb8-4471-a329-0fd6214744de)
+![Screenshot 2025-06-17 210931](https://github.com/user-attachments/assets/016860bf-56b1-43f3-866b-c8a33ca226bf)
+![Screenshot 2025-06-17 210952](https://github.com/user-attachments/assets/278e6ff7-fba3-4b98-8f01-7555fb9975d1)
 
 
 
